@@ -14,7 +14,7 @@ defineProps({
       Tentang Saya  <br>
 
       <a href="https://instagram.com/mhajidd?igshid=OTk0YzhjMDVlZA==/" target="_blank" rel="noopener"><img src="@/assets/IG.png" alt=""></a> +
-      <a href="https://github.com/hajidprori/28-pbk-uts-213510337/" target="_blank" rel="noopener"><img src="@/assets/Git Hub.png" alt=""></a>.
+      <a href="https://github.com/hajidprori/28-pbk-uts-213510337/" target="_blank" rel="noopener"><img src="@/assets/github.png" alt=""></a>.
     </h3>
   </div>
 </template>
